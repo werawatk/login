@@ -1,0 +1,2136 @@
+[
+    {
+        "id": 1020,
+        "brand": "marienatie",
+        "name": "Eyeliner",
+        "price": "0.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.purpicks.com/wp-content/uploads/csm/Eyeliner-Group_300dpi_1024x1024_a2ac069c-f517-46bf-a215-8d31f5e948c91.jpg",
+        "product_link": "https://www.purpicks.com/product/marie-natie-eyeliner/",
+        "website_link": "https://purpicks.com/",
+        "description": "An eyeliner that offers long lasting colour and a natural smooth finish.  Both jojoba oil and meadowfoam oil have amazing moisturizing properties to help repair skin.  Beeswax is known for its healing properties and will help to improve skin conditions.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "purpicks",
+            "CertClean"
+        ],
+        "created_at": "2018-06-30T19:19:30.847Z",
+        "updated_at": "2018-09-02T22:52:06.484Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1020.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/020/original/open-uri20180630-4-y548d5?1530390373",
+        "product_colors": [
+            {
+                "hex_value": "#000000",
+                "colour_name": "Black"
+            },
+            {
+                "hex_value": "#393230",
+                "colour_name": "Brown"
+            },
+            {
+                "hex_value": "#353234",
+                "colour_name": "Smoke"
+            }
+        ]
+    },
+    {
+        "id": 1006,
+        "brand": "c'est moi",
+        "name": "Fearless Eyeliner",
+        "price": "0.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.purpicks.com/wp-content/uploads/2018/04/cest-moi-fearless-eyeliner-pencil.png",
+        "product_link": "https://www.purpicks.com/product/fearless-eyeliner/",
+        "website_link": "https://purpicks.com/",
+        "description": "Make eyes pop with this velvety smooth eyeliner that glides on effortlessly and precisely. Make your eyes pop with this sleek, easy-to-use eyeliner. Formulated with both jojoba seed oil and shea butter, its velvety smooth formula glides on effortlessly and precisely. To sharpen, place inside sharpener and turn the pencil gently to create a working tip. Made for Young Delicate Skin Types NO – Talc, Fragrance, Parabens, Phthalates, Sulfates, Mineral oil or Propylene Glycol  Dermatologist Tested Clinically Tested on Sensitive Skin Hypoallergenic Made with Natural Ingredients",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "purpicks",
+            "EWG Verified",
+            "Hypoallergenic",
+            "No Talc"
+        ],
+        "created_at": "2018-06-30T19:19:29.910Z",
+        "updated_at": "2018-09-02T22:52:06.537Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1006.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/006/original/open-uri20180630-4-u4c1jh?1530390360",
+        "product_colors": [
+            {
+                "hex_value": "#B8A89A",
+                "colour_name": "Fearless"
+            }
+        ]
+    },
+    {
+        "id": 964,
+        "brand": "nyx",
+        "name": "Metallic Eyeliner",
+        "price": "8.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw1a50507a/ProductImages/2018/Eyes/Metallic_Eyeliner/metalliceyeliner_main.jpg?sw=390&sh=390&sm=fit",
+        "product_link": "https://www.nyxcosmetics.com/metallic-eyeliner/NYX_602.html?cgid=eyeliner",
+        "website_link": "https://www.nyxcosmetics.com",
+        "description": "Spend some quality glam time with our Metallic Eyeliners. From copper to rose gold and silver, this creamy-soft pencil is available in six dazzling shades. Each pigment rich eyeliner slides on effortlessly and loads your lids with a metallic-matte finish. Down to the last swipe? Sharpen your go-to hue to uncover more intense color.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2017-12-24T02:32:24.051Z",
+        "updated_at": "2017-12-24T02:32:24.479Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/964.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/964/original/open-uri20171224-4-11fb0s4?1514082743",
+        "product_colors": [
+            {
+                "hex_value": "#B15A47",
+                "colour_name": "Copper"
+            },
+            {
+                "hex_value": "#99949A",
+                "colour_name": "Silver"
+            },
+            {
+                "hex_value": "#B69A8F",
+                "colour_name": "Rose Gold"
+            },
+            {
+                "hex_value": "#B88B47",
+                "colour_name": "Gold"
+            },
+            {
+                "hex_value": "#2F2F2F",
+                "colour_name": "Gunmetal"
+            },
+            {
+                "hex_value": "#2D2D2D",
+                "colour_name": "Black Metal"
+            }
+        ]
+    },
+    {
+        "id": 963,
+        "brand": "nyx",
+        "name": "Tres Jolie Gel Pencil Liner",
+        "price": "12.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw85212794/ProductImages/Eyes/Tres_Jolie_Gel_Pencil_Liner/tresjoliegelpencilliner_main.jpg?sw=390&sh=390&sm=fit",
+        "product_link": "https://www.nyxcosmetics.com/tres-jolie-gel-pencil-liner/NYX_182.html?cgid=eyeliner",
+        "website_link": "https://www.nyxcosmetics.com",
+        "description": "Our high-powered twist-up gel liner has the same payoff and precision as a pot without having to use a brush. It comes with a sharpener to ensure precise application every time.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2017-12-24T02:32:22.094Z",
+        "updated_at": "2017-12-24T02:32:22.578Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/963.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/963/original/data?1514082741",
+        "product_colors": [
+            {
+                "hex_value": "#191919",
+                "colour_name": "Pitch Black"
+            },
+            {
+                "hex_value": "#43281D",
+                "colour_name": "Brown"
+            }
+        ]
+    },
+    {
+        "id": 962,
+        "brand": "nyx",
+        "name": "Faux Whites Eye Brightener",
+        "price": "8.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwd6f5e770/ProductImages/2017/Eyes/Faux_Whites_Eye_Brightener/fauxwhiteseyebrightener_main.jpg?sw=390&sh=390&sm=fit",
+        "product_link": "https://www.nyxcosmetics.com/faux-whites-eye-brightener/NYX_404.html?cgid=eyeliner",
+        "website_link": "https://www.nyxcosmetics.com",
+        "description": "Brighten up those beautiful eyes! Our all-new collection of Faux Whites features a variety of white liners with an exquisite hint of color—from blush, to lavender, and mint. This bouquet of tones may be delicate, yet each one is anything but subtle. Every color glides on velvety-soft and provides a striking matte finish. Pencil the corners of the eyes using these vibrant brighteners for a fresh highlight.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2017-12-24T02:32:20.444Z",
+        "updated_at": "2017-12-24T02:32:20.789Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/962.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/962/original/open-uri20171224-4-gpuczn?1514082740",
+        "product_colors": [
+            {
+                "hex_value": "#FFE0E3",
+                "colour_name": "Seashell"
+            },
+            {
+                "hex_value": "#FFE3D8",
+                "colour_name": "Linen"
+            },
+            {
+                "hex_value": "#FCF4CF",
+                "colour_name": "Vanilla"
+            },
+            {
+                "hex_value": "#F0F4D9",
+                "colour_name": "Honeydew"
+            },
+            {
+                "hex_value": "#E3F1E4",
+                "colour_name": "Mint Cream"
+            },
+            {
+                "hex_value": "#D8EBFC",
+                "colour_name": "Baby Powder"
+            },
+            {
+                "hex_value": "#F9E1EE",
+                "colour_name": "Lavender Blush"
+            },
+            {
+                "hex_value": "#E7E3FE",
+                "colour_name": "White Smoke"
+            }
+        ]
+    },
+    {
+        "id": 961,
+        "brand": "nyx",
+        "name": "Faux Blacks Eyeliner",
+        "price": "8.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw52b6a577/ProductImages/2017/Eyes/Faux_Blacks_Eyeliner/fauxblackseyeliner_main.jpg?sw=390&sh=390&sm=fit",
+        "product_link": "https://www.nyxcosmetics.com/faux-blacks-eyeliner/NYX_405.html?cgid=eyeliner",
+        "website_link": "https://www.nyxcosmetics.com",
+        "description": "The go-to goodie in every beauty’s makeup bag? A little black liner, of course! Inspired by this enduring essential, the new Faux Blacks collection puts a bold twist on a classic that will forever be a chic choice. Available in eight deep matte shades with a hint of rich color—from midnight blue to dark olive—these striking eyeliners are creamy and go on smooth, which makes drawing a precise line or smudging it out totally simple.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2017-12-24T02:32:19.213Z",
+        "updated_at": "2017-12-24T02:32:19.632Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/961.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/961/original/open-uri20171224-4-3q32qt?1514082739",
+        "product_colors": [
+            {
+                "hex_value": "#A06362",
+                "colour_name": "Oxblood"
+            },
+            {
+                "hex_value": "#975873",
+                "colour_name": "Burnt Sienna"
+            },
+            {
+                "hex_value": "#7D7C60",
+                "colour_name": "Black Olive"
+            },
+            {
+                "hex_value": "#3C665C",
+                "colour_name": "Onyx"
+            },
+            {
+                "hex_value": "#3C7296",
+                "colour_name": "Midnight"
+            },
+            {
+                "hex_value": "#3B608C",
+                "colour_name": "Obsidian"
+            },
+            {
+                "hex_value": "#956E83",
+                "colour_name": "Blackberry"
+            },
+            {
+                "hex_value": "#766B8B",
+                "colour_name": "Black Hole"
+            }
+        ]
+    },
+    {
+        "id": 960,
+        "brand": "nyx",
+        "name": "Collection Noir",
+        "price": "6.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw5a58329e/ProductImages/Eyes/Collection_Noir/collectionnoir_main.jpg?sw=390&sh=390&sm=fit",
+        "product_link": "https://www.nyxcosmetics.com/collection-noir/NYX_065.html?cgid=eyeliner",
+        "website_link": "https://www.nyxcosmetics.com",
+        "description": "Finally a collection of 8 Noir liners to create any dramatic look. This assortment of liners includes 7 of the blackest black liner formulations ranging from matte to glossy. There is even a powder soft brown for more subtle looks. Create dramatic sultry looks, precise cat-eyes, and subtle yet smokey eyes. This sexy dark collection has a liner for everyone’s needs.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2017-12-24T02:32:17.469Z",
+        "updated_at": "2017-12-24T02:32:17.814Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/960.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/960/original/open-uri20171224-4-xkjlku?1514082737",
+        "product_colors": [
+            {
+                "hex_value": "#363636",
+                "colour_name": "Glossy Black Liner"
+            },
+            {
+                "hex_value": "#161616",
+                "colour_name": "Matte Black Liner"
+            },
+            {
+                "hex_value": "#2F2F2F",
+                "colour_name": "Satin Finish Black Liner"
+            },
+            {
+                "hex_value": "#F2F2F2",
+                "colour_name": "Kohl Kajal Black Liner"
+            },
+            {
+                "hex_value": "#4D4D4D",
+                "colour_name": "Powdery Black Liner"
+            },
+            {
+                "hex_value": "#FFFFFD",
+                "colour_name": "Powdery Brown Liner"
+            }
+        ]
+    },
+    {
+        "id": 959,
+        "brand": "nyx",
+        "name": "Slim Eye Pencil",
+        "price": "4.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwd6b2499f/ProductImages/Eyes/Slim_Eye_Pencil/slimeyepencil_main.jpg?sw=390&sh=390&sm=fit",
+        "product_link": "https://www.nyxcosmetics.com/slim-eye-pencil/NYX_023.html?cgid=eyeliner",
+        "website_link": "https://www.nyxcosmetics.com",
+        "description": "Slim, trim, but never prim. Our Slim Eye Pencils come in a variety of entrancing shades—from seafoam green to black shimmer. The creamy long-wearing eye liner formula goes on easily and resists bleeding. Available in 31 stunning shades!",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2017-12-24T02:32:09.470Z",
+        "updated_at": "2017-12-24T02:32:10.343Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/959.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/959/original/open-uri20171224-4-o680lz?1514082729",
+        "product_colors": [
+            {
+                "hex_value": "#9BC98B",
+                "colour_name": "Green Shimmer"
+            },
+            {
+                "hex_value": "#BBC89D",
+                "colour_name": "Moss"
+            },
+            {
+                "hex_value": "#477E6B",
+                "colour_name": "Emerald City"
+            },
+            {
+                "hex_value": "#ADCEC7",
+                "colour_name": "Seafoam Green"
+            },
+            {
+                "hex_value": "#7ED8B2",
+                "colour_name": "Teal"
+            },
+            {
+                "hex_value": "#7BDBDA",
+                "colour_name": "Aqua Shimmer"
+            },
+            {
+                "hex_value": "#B1E0EA",
+                "colour_name": "Baby Blue"
+            },
+            {
+                "hex_value": "#9ED6E7",
+                "colour_name": "Sky Shimmer"
+            },
+            {
+                "hex_value": "#48B3E1",
+                "colour_name": "Electric Blue"
+            },
+            {
+                "hex_value": "#8DBDE5",
+                "colour_name": "Satin Blue"
+            },
+            {
+                "hex_value": "#5C88AF",
+                "colour_name": "Sapphire"
+            },
+            {
+                "hex_value": "#C094D3",
+                "colour_name": "Purple"
+            },
+            {
+                "hex_value": "#BFB2E7",
+                "colour_name": "Lavender Shimmer"
+            },
+            {
+                "hex_value": "#C69D7F",
+                "colour_name": "Bronze Shimmer"
+            },
+            {
+                "hex_value": "#AB7B64",
+                "colour_name": "Cafe"
+            },
+            {
+                "hex_value": "#AB8369",
+                "colour_name": "Auburn"
+            },
+            {
+                "hex_value": "#A78C71",
+                "colour_name": "Light Brown"
+            },
+            {
+                "hex_value": "#8B7462",
+                "colour_name": "Medium Brown"
+            },
+            {
+                "hex_value": "#8E7356",
+                "colour_name": "Brown"
+            },
+            {
+                "hex_value": "#866D59",
+                "colour_name": "Dark Brown"
+            },
+            {
+                "hex_value": "#BB9B86",
+                "colour_name": "Taupe"
+            },
+            {
+                "hex_value": "#E8BE82",
+                "colour_name": "Gold Shimmer"
+            },
+            {
+                "hex_value": "#DCC3AF",
+                "colour_name": "Velvet"
+            },
+            {
+                "hex_value": "#F9FAF5",
+                "colour_name": "White"
+            },
+            {
+                "hex_value": "#F7F6F2",
+                "colour_name": "White Pearl"
+            },
+            {
+                "hex_value": "#CDCDCD",
+                "colour_name": "Silver"
+            },
+            {
+                "hex_value": "#909090",
+                "colour_name": "Gray"
+            },
+            {
+                "hex_value": "#7F7F7F",
+                "colour_name": "Charcoal"
+            },
+            {
+                "hex_value": "#76685D",
+                "colour_name": "Black Brown"
+            },
+            {
+                "hex_value": "#545454",
+                "colour_name": "Black Shimmer"
+            },
+            {
+                "hex_value": "#575757",
+                "colour_name": "Black"
+            }
+        ]
+    },
+    {
+        "id": 958,
+        "brand": "nyx",
+        "name": "Retractable Eye Liner",
+        "price": "5.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw83169760/ProductImages/Eyes/Retractable_Eye_Liner/retractableeyeliner_main.jpg?sw=390&sh=390&sm=fit",
+        "product_link": "https://www.nyxcosmetics.com/retractable-eye-liner/NYX_021.html?cgid=eyeliner",
+        "website_link": "https://www.nyxcosmetics.com",
+        "description": "Twist and shout! Renowned for its extreme lasting power this creamy liner delivers intense pigmentation and precise application in an easy twist-up tube that never needs sharpening.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2017-12-24T02:32:05.574Z",
+        "updated_at": "2017-12-24T02:32:06.056Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/958.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/958/original/open-uri20171224-4-18m7lgt?1514082725",
+        "product_colors": [
+            {
+                "hex_value": "#776F26",
+                "colour_name": "Golden Olive"
+            },
+            {
+                "hex_value": "#159C9F",
+                "colour_name": "Aqua Green"
+            },
+            {
+                "hex_value": "#045F71",
+                "colour_name": "Gypsy Blue"
+            },
+            {
+                "hex_value": "#0A466A",
+                "colour_name": "Deep Blue"
+            },
+            {
+                "hex_value": "#4A4480",
+                "colour_name": "Purple"
+            },
+            {
+                "hex_value": "#442F5A",
+                "colour_name": "Deep Purple"
+            },
+            {
+                "hex_value": "#3D2316",
+                "colour_name": "Brown"
+            },
+            {
+                "hex_value": "#5C3C23",
+                "colour_name": "Bronze"
+            },
+            {
+                "hex_value": "#CA8F33",
+                "colour_name": "Gold"
+            },
+            {
+                "hex_value": "#F4F5F0",
+                "colour_name": "White"
+            },
+            {
+                "hex_value": "#C1C1C1",
+                "colour_name": "Silver"
+            },
+            {
+                "hex_value": "#525252",
+                "colour_name": "Gray"
+            },
+            {
+                "hex_value": "#1C1C1C",
+                "colour_name": "Black"
+            }
+        ]
+    },
+    {
+        "id": 957,
+        "brand": "nyx",
+        "name": "Slide On Pencil",
+        "price": "8.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwbdf94a20/ProductImages/Eyes/Slide_On_Pencil/slideonpencil_main.jpg?sw=390&sh=390&sm=fit",
+        "product_link": "https://www.nyxcosmetics.com/slide-on-pencil/NYX_022.html?cgid=eyeliner",
+        "website_link": "https://www.nyxcosmetics.com",
+        "description": "Don’t let the softness of this pencil fool you. This formula doesn't smear or smudge and delivers powerful robust colors. It’s like a liquid eye liner without the mess. Available in 18 sleek shades. Our Slide on Pencils can be sharpened with a sharpener that has an opening for a small pencil. Get your NYX Professional Makeup Sharpener",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2017-12-24T02:32:01.071Z",
+        "updated_at": "2017-12-24T02:32:01.692Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/957.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/957/original/open-uri20171224-4-1md5yaa?1514082720",
+        "product_colors": [
+            {
+                "hex_value": "#A88089",
+                "colour_name": "Jewel"
+            },
+            {
+                "hex_value": "#51A66D",
+                "colour_name": "Esmeralda"
+            },
+            {
+                "hex_value": "#519181",
+                "colour_name": "Tropical Green"
+            },
+            {
+                "hex_value": "#43CCD6",
+                "colour_name": "Azure"
+            },
+            {
+                "hex_value": "#4E99C3",
+                "colour_name": "Sunrise Blue"
+            },
+            {
+                "hex_value": "#A886C2",
+                "colour_name": "Pretty Violet"
+            },
+            {
+                "hex_value": "#9A7EB8",
+                "colour_name": "Purple Blaze"
+            },
+            {
+                "hex_value": "#D6B185",
+                "colour_name": "Glitzy Gold"
+            },
+            {
+                "hex_value": "#A78A62",
+                "colour_name": "Golden Olive"
+            },
+            {
+                "hex_value": "#B07D62",
+                "colour_name": "Golden Bronze"
+            },
+            {
+                "hex_value": "#907761",
+                "colour_name": "Brown Perfection"
+            },
+            {
+                "hex_value": "#F9FAF5",
+                "colour_name": "Pure White"
+            },
+            {
+                "hex_value": "#D5D9D8",
+                "colour_name": "Platinum"
+            },
+            {
+                "hex_value": "#83847F",
+                "colour_name": "Gun Metal"
+            },
+            {
+                "hex_value": "#707271",
+                "colour_name": "Black Sparkle"
+            },
+            {
+                "hex_value": "#626262",
+                "colour_name": "Jet Black"
+            }
+        ]
+    },
+    {
+        "id": 956,
+        "brand": "nyx",
+        "name": "Jumbo Eye Pencil",
+        "price": "4.5",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwda543a41/ProductImages/Eyes/Jumbo_Eye_Pencil/jumboeyepencil_main.jpg?sw=390&sh=390&sm=fit",
+        "product_link": "https://www.nyxcosmetics.com/jumbo-eye-pencil/NYX_001.html?cgid=eyeliner",
+        "website_link": "https://www.nyxcosmetics.com",
+        "description": "",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2017-12-24T02:31:53.675Z",
+        "updated_at": "2017-12-24T02:31:54.390Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/956.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/956/original/open-uri20171224-4-1sgu8lk?1514082713",
+        "product_colors": [
+            {
+                "hex_value": "#FFACC1",
+                "colour_name": "Strawberry Milk"
+            },
+            {
+                "hex_value": "#C95254",
+                "colour_name": "Rust"
+            },
+            {
+                "hex_value": "#9CBF00",
+                "colour_name": "Cucumber"
+            },
+            {
+                "hex_value": "#C3D17A",
+                "colour_name": "Lime"
+            },
+            {
+                "hex_value": "#8DDF95",
+                "colour_name": "Horseradish"
+            },
+            {
+                "hex_value": "#04A057",
+                "colour_name": "Rocky Mountain Green"
+            },
+            {
+                "hex_value": "#1B9775",
+                "colour_name": "Sparkle Green"
+            },
+            {
+                "hex_value": "#3ACFED",
+                "colour_name": "Baby Blue"
+            },
+            {
+                "hex_value": "#05A9CE",
+                "colour_name": "Electric Blue"
+            },
+            {
+                "hex_value": "#0096B7",
+                "colour_name": "Peacock"
+            },
+            {
+                "hex_value": "#2C86B8",
+                "colour_name": "Cobalt"
+            },
+            {
+                "hex_value": "#EBB4EE",
+                "colour_name": "Oyster"
+            },
+            {
+                "hex_value": "#EFC2ED",
+                "colour_name": "Lavender"
+            },
+            {
+                "hex_value": "#8F9AD0",
+                "colour_name": "Pacific"
+            },
+            {
+                "hex_value": "#834C8D",
+                "colour_name": "Purple Velvet"
+            },
+            {
+                "hex_value": "#634988",
+                "colour_name": "Purple"
+            },
+            {
+                "hex_value": "#FCCAA7",
+                "colour_name": "Cashmere"
+            },
+            {
+                "hex_value": "#F2A49A",
+                "colour_name": "Yogurt"
+            },
+            {
+                "hex_value": "#F5B695",
+                "colour_name": "Sparkle Nude"
+            },
+            {
+                "hex_value": "#F7AF65",
+                "colour_name": "Pure Gold"
+            },
+            {
+                "hex_value": "#F59E57",
+                "colour_name": "Gold"
+            },
+            {
+                "hex_value": "#CA8B62",
+                "colour_name": "Sparkle Leopard"
+            },
+            {
+                "hex_value": "#D67552",
+                "colour_name": "Bronze"
+            },
+            {
+                "hex_value": "#A96E50",
+                "colour_name": "French Fries"
+            },
+            {
+                "hex_value": "#E1A686",
+                "colour_name": "Iced Mocha"
+            },
+            {
+                "hex_value": "#E2E1DD",
+                "colour_name": "Cottage Cheese"
+            },
+            {
+                "hex_value": "#F5F6F1",
+                "colour_name": "Milk"
+            },
+            {
+                "hex_value": "#BBC4C3",
+                "colour_name": "Pots & Pans"
+            },
+            {
+                "hex_value": "#5C6063",
+                "colour_name": "Slate"
+            },
+            {
+                "hex_value": "#645C59",
+                "colour_name": "Knight"
+            },
+            {
+                "hex_value": "#613E28",
+                "colour_name": "Dark Brown"
+            },
+            {
+                "hex_value": "#2D2D2D",
+                "colour_name": "Black Bean"
+            }
+        ]
+    },
+    {
+        "id": 953,
+        "brand": "nyx",
+        "name": "Collection Chocolate",
+        "price": "6.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dwbccef58f/ProductImages/Eyes/Collection_Chocolate/collectionchocolate_main.jpg?sw=390&sh=390&sm=fit",
+        "product_link": "https://www.nyxcosmetics.com/collection-chocolate/NYX_090.html?cgid=eyeliner",
+        "website_link": "https://www.nyxcosmetics.com",
+        "description": "What’s better than a guilt-free treat! Feast your eyes on our Collection Chocolate in 6 of our most delectable liners. The mouthwatering formula is smudge proof and comes in satin matte glossy or liquid.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2017-12-24T02:31:47.604Z",
+        "updated_at": "2017-12-24T02:32:22.990Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/953.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/953/original/open-uri20171224-4-1xyp0ge?1514082742",
+        "product_colors": [
+            {
+                "hex_value": "#3B2C25",
+                "colour_name": "Glossy Brown Liner"
+            },
+            {
+                "hex_value": "#27160F",
+                "colour_name": "Matte Brown Liner"
+            },
+            {
+                "hex_value": "#36251B",
+                "colour_name": "Satin Finish Brown Liner"
+            },
+            {
+                "hex_value": "#E7E7DF",
+                "colour_name": "Kohl Kajal Brown Liner"
+            },
+            {
+                "hex_value": "#281409",
+                "colour_name": "Skinny Brown Liner"
+            },
+            {
+                "hex_value": "#442B24",
+                "colour_name": "Liquid Brown Liner"
+            }
+        ]
+    },
+    {
+        "id": 910,
+        "brand": "nyx",
+        "name": "Wonder Pencil",
+        "price": "4.5",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw5e345fad/ProductImages/Face/Wonder_Pencil/wonderpencil_main.jpg?sw=390&sh=390&sm=fit",
+        "product_link": "https://www.nyxcosmetics.com/wonder-pencil/NYX_091.html?cgid=eyeliner",
+        "website_link": "https://www.nyxcosmetics.com",
+        "description": "Wonder Pencil…the essential pencil that fulfills all of your beauty desires. Conquer 3 critical make-up tasks with one product: CONCEAL flaws and blemishes with creamy precision; LINE your lips against lipstick bleeding and fading; and BRIGHTEN your eyes along the water line. Will wonders never cease? Not with the Wonder Pencil in your bag!",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2017-12-24T02:28:18.879Z",
+        "updated_at": "2017-12-24T02:32:16.275Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/910.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/910/original/open-uri20171224-4-1f18cvd?1514082735",
+        "product_colors": [
+            {
+                "hex_value": "#E5C19F",
+                "colour_name": "Light"
+            },
+            {
+                "hex_value": "#C49D7E",
+                "colour_name": "Medium"
+            },
+            {
+                "hex_value": "#AF8F76",
+                "colour_name": "Deep"
+            }
+        ]
+    },
+    {
+        "id": 647,
+        "brand": "iman",
+        "name": "Perfect Eye Pencil Ebony",
+        "price": null,
+        "price_sign": null,
+        "currency": null,
+        "image_link": "http://imancosmetics.com/resources/uploads/product_colors/EyePencil_Ebony.jpg",
+        "product_link": "http://imancosmetics.com/shop/products/eyes/eyepencil/ebony",
+        "website_link": "http://imancosmetics.com/",
+        "description": "0.05oz (1.5g) Expertly defines & lines eyes. Made in USA. ",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-03T14:05:00.721Z",
+        "updated_at": "2017-12-23T20:51:24.963Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/647.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/647/original/open-uri20171223-4-1glzvo5?1514062284",
+        "product_colors": [
+            {
+                "hex_value": "#283434",
+                "colour_name": "Black Shimmer"
+            },
+            {
+                "hex_value": "#583939",
+                "colour_name": "Nut Bush"
+            },
+            {
+                "hex_value": "#000000",
+                "colour_name": "Jet Black"
+            }
+        ]
+    },
+    {
+        "id": 271,
+        "brand": "covergirl",
+        "name": "CoverGirl Trunaked Waterproof Eyeliner Duo in Mocha/Ebony",
+        "price": "11.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d21a214b11528337f27647cbbd93de6b_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/covergirl-trunaked-waterproof_112747.html",
+        "website_link": "https://well.ca",
+        "description": "CoverGirl Trunaked Waterproof Eyeliner Duo takes eyes from subtle to smokey in no time! Features:Creamy waterproof formula Blends just as beautifully as it stays put Partner this twin tip eyeliner pencil with the gorgeous neutrals in the trunaked palettes to create endless easy, breezy, beautiful possibilitiesHow to Apply: Apply liner along your top and bottom lashes for the full trunaked effect.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:58.625Z",
+        "updated_at": "2017-12-23T20:51:16.895Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/271.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/271/original/open-uri20171223-4-1l6bio5?1514062276",
+        "product_colors": []
+    },
+    {
+        "id": 270,
+        "brand": "anna sui",
+        "name": "Anna Sui Eye Brightener",
+        "price": "28.0",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5e2dd70493281c257ad9e77b8840d570_ra,w158,h184_pa,w158,h184.jpg",
+        "product_link": "https://well.ca/products/anna-sui-eye-brightener_115440.html?cat=324",
+        "website_link": "https://well.ca",
+        "description": "This Anna Sui Eye Brightener is an eye makeup primer that evens, tones and provides a brightened 3D effect, designed specifically for delicate eye areas.  Features:Combined with polarized pearls in red, blue, and silver for a naturally brightened 3D effectSmooths skin tones, allowing eye makeup to spread smoothly onto the skinGentle enough to protect delicate eye areasDirections: Apply before or after makeup.  Can be used to highlight when applied around eye area before makeup or used as a light concealer under eyes and brow bone after makeup.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:57.466Z",
+        "updated_at": "2017-12-23T21:08:08.156Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/270.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/270/original/data?1514063288",
+        "product_colors": []
+    },
+    {
+        "id": 268,
+        "brand": "anna sui",
+        "name": "Anna Sui Sharpener",
+        "price": "10.0",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/269abb578dd790ab8379025f81fcbfae_ra,w158,h184_pa,w158,h184.jpg",
+        "product_link": "https://well.ca/products/anna-sui-sharpener_115554.html?cat=324",
+        "website_link": "https://well.ca",
+        "description": "This Anna Sui Sharpener for eyeliner pencils features two sharpener sizes and a mess free cover to catch the eyeliner shavings. ",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:54.122Z",
+        "updated_at": "2017-12-23T21:08:10.420Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/268.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/268/original/data?1514063290",
+        "product_colors": []
+    },
+    {
+        "id": 267,
+        "brand": "covergirl",
+        "name": "CoverGirl Bombshell Powder Brow & Liner in Dark Brown",
+        "price": "9.49",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a7598160bc46504c98c26a241e3047e2_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/covergirl-bombshell-powder-brow_113683.html",
+        "website_link": "https://well.ca",
+        "description": "Bring sexy smolder to eyes & brows.  Soft powder adheres to brows and defines eyes.Features:2-in-1 brow & liner powderVelvety powder fills in browsUse also to softly line & define eyesDirections: Twist open and pull applicator up and tap lightly on tube side to remove excess powder. Lightly brush over eyebrows until desired effect is reached. Also use to softly line & define eyesIngredients: Boron Nitride, Dimethicone, Silica, Polyethylene, Pentylene Glycol, Pumice, Kaolin, Dimethiconol, Phenoxyethanol, Ethylhexylglycerin, Dehydroacetic Acid, Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, May Contain/Peut Contenir: Titanium Dioxide, Iron Oxides, Mica",
+        "rating": 3,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:53.047Z",
+        "updated_at": "2017-12-23T21:08:10.038Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/267.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/267/original/open-uri20171223-4-dspzug?1514063289",
+        "product_colors": []
+    },
+    {
+        "id": 266,
+        "brand": "anna sui",
+        "name": "Anna Sui Pencil Eyeliner WP",
+        "price": "26.0",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/88d74b22173b3f912b2263c4fd505a2b_ra,w158,h184_pa,w158,h184.jpg",
+        "product_link": "https://well.ca/products/anna-sui-pencil-eyeliner-wp_115449.html",
+        "website_link": "https://well.ca",
+        "description": "This Anna Sui Pencil Eyeliner is a soft, waterproof eyeliner that glides on effortlessly for a long lasting finish. Used to create intense colour definition.Features:Waterproof formula reduces smudging allowing colours to stay fresh Minimal amount of waxes and oils allow for a smooth application5 essential on-trend colours produced by a combination of pearl and colourants",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:52.181Z",
+        "updated_at": "2017-12-23T21:08:09.749Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/266.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/266/original/data?1514063289",
+        "product_colors": [
+            {
+                "hex_value": "#AB9A63",
+                "colour_name": "Gold (900) "
+            },
+            {
+                "hex_value": "#5D5855",
+                "colour_name": "Black (001) "
+            },
+            {
+                "hex_value": "#F9F2EA",
+                "colour_name": "Whire (002) "
+            },
+            {
+                "hex_value": "#5C6085",
+                "colour_name": "Blue (100) "
+            },
+            {
+                "hex_value": "#896652",
+                "colour_name": "Brown (500) "
+            }
+        ]
+    },
+    {
+        "id": 265,
+        "brand": "covergirl",
+        "name": "CoverGirl Trunaked Waterproof Eyeliner Duo in Cashmere/Espresso",
+        "price": "11.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/92d2bd2c93f465c5565009f3f604fae6_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/covergirl-trunaked-waterproof_112746.html",
+        "website_link": "https://well.ca",
+        "description": "CoverGirl Trunaked Waterproof Eyeliner Duo takes eyes from subtle to smokey in no time! Features:Creamy waterproof formula Blends just as beautifully as it stays put Partner this twin tip eyeliner pencil with the gorgeous neutrals in the trunaked palettes to create endless easy, breezy, beautiful possibilitiesHow to Apply: Apply liner along your top and bottom lashes for the full trunaked effect.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:50.299Z",
+        "updated_at": "2017-12-23T21:08:09.610Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/265.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/265/original/open-uri20171223-4-1unbuvg?1514063289",
+        "product_colors": []
+    },
+    {
+        "id": 264,
+        "brand": "revlon",
+        "name": "Revlon PhotoReady Kajal Matte Eye Pencil",
+        "price": "11.49",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/117b7491bce3c01899a12df69d4629e1_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/revlon-photoready-kajal-matte-eye_112535.html",
+        "website_link": "https://well.ca",
+        "description": "NEW Revlon PhotoReady Kajal Matte Eye Pencil is a highly pigmented colour with matte finish that glides on effortlessly.Features:Use the built in smudger to take it from precise to smokySoft kajal can be used to line the inner rimAll day wearOphthalmologist tested ",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:49.181Z",
+        "updated_at": "2017-12-23T21:08:09.477Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/264.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/264/original/open-uri20171223-4-1yo9tf8?1514063289",
+        "product_colors": []
+    },
+    {
+        "id": 262,
+        "brand": "physicians formula",
+        "name": "Physicians Formula Shimmer Strips Extreme Shimmer Pencil + Smudger Trio",
+        "price": "15.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a08c2b2466bf97e899cfc1445cd6cd9f_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/physicians-formula-shimmer-strips_112259.html",
+        "website_link": "https://well.ca",
+        "description": "\nUltra-shimmery & versatile glitter eyeliner pencils create precise definition or smudged out glamour instantly!Features:Highly-pigmented, creamy color Packed with illuminating shimmer for eyes that sparkleThree Shades: Natural (Bronze), Playful (Gold), Dramatic (Black)Directions: Apply eyeliner at the base of upper and lower lashes.Layer shades together for endless looks. For more defined eyes, apply along lower lash line as well.Ingredients: Ingredients: Hydrogenated Polyisobutene, Calcium Sodium Borosilicate, Calcium Aluminum Borosilicate, Polyethylene Terephthalate, Dipentaerythrityl Hexahydroxystearate/Hexastearate/Hexarosinate, Synthetic Wax, Ethylhexyl Palmitate, Beeswax/Cire d'abeille, Copernicia Cerifera (Carnauba) Wax/Cire de Carnauba, Synthetic Fluorphlogopite, Silica, Ozokerite, Ascorbyl Palmitate, Citric Acid, Lecithin, Polymethyl Methacrylate, Polyurethane-11, Tin Oxide, Tocopherol",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "Gluten Free",
+            "Natural"
+        ],
+        "created_at": "2016-10-01T18:29:45.558Z",
+        "updated_at": "2017-12-23T21:08:08.553Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/262.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/262/original/open-uri20171223-4-vppdxb?1514063288",
+        "product_colors": []
+    },
+    {
+        "id": 261,
+        "brand": "covergirl",
+        "name": "CoverGirl Full Lash Bloom Mascara + Perfect Point Plus Eye Liner",
+        "price": "14.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/72bab061829b3185368d8dcb24a6a630_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/covergirl-full-lash-bloom-mascara_108466.html?cat=324",
+        "website_link": "https://well.ca",
+        "description": "This value pack contains a mascara that gives exceptional lash fullness that is soft - even to the touch and a self-sharpening eye liner for a perfect point every time.Features:Full Lash Bloom Mascara - very blackPerfect Point Plus Eye Liner - black onyx Soft, full lashes that are never stiff or brittleEye liner has soft smudger tip for expert blendingSuitable for contact lens wearersDirections: Apply liner along bottom and top lash lines, smudge using soft tip tool. Finish by brushing upper and lower lashes generously with up to 2 coats of mascara.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:44.520Z",
+        "updated_at": "2017-12-23T21:08:03.809Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/261.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/261/original/open-uri20171223-4-1d9t58p?1514063283",
+        "product_colors": []
+    },
+    {
+        "id": 260,
+        "brand": "l'oreal",
+        "name": "L'Oreal Infallible Smokissime Powder Eyeliner Pen",
+        "price": "12.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/08f663a61b796cb57fd6aef86dbb5cc1_ra,w158,h184_pa,w158,h184.jpg",
+        "product_link": "https://well.ca/products/loreal-infallible-smokissime-powder_102005.html",
+        "website_link": "https://well.ca",
+        "description": "Master the smoky eye in one step - really! Every makeup artist knows: \nthe perfect smoky eye is about the perfect pairing of eyeliner and \nshadow. Now, L’Oréal Paris introduces the first smoky eye powder liner, \nblending the best of eyeliner and shadow into a single product. Its \nInfallible powder formula lasts up to 14 hours while the suede-like \napplicator is soft enough to expertly blend, with a pointed tip for \noptimal control.",
+        "rating": 2.5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:43.529Z",
+        "updated_at": "2017-12-23T21:08:04.477Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/260.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/260/original/data?1514063284",
+        "product_colors": [
+            {
+                "hex_value": "#623272",
+                "colour_name": "Purple Smoke "
+            },
+            {
+                "hex_value": "#a57756",
+                "colour_name": "Taupe Smoke "
+            }
+        ]
+    },
+    {
+        "id": 259,
+        "brand": "physicians formula",
+        "name": "Physicians Formula Shimmer Strips Extreme Shimmer Eyeliner Trio in Nude ",
+        "price": "14.79",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d64ebc772679cbca5c93fd10cc2f3c56_ra,w158,h184_pa,w158,h184.jpg",
+        "product_link": "https://well.ca/products/physicians-formula-shimmer-strips_102727.html",
+        "website_link": "https://well.ca",
+        "description": "This Physicians Formula Shimmer Strips Extreme Shimmer Eyeliner Trio gives you highly pigmented color and bold shimmer for a glamorous customized look. Features: Long wearing, water resistant and smudge resistant formula for 24hr wearHypoallergenicParaben & gluten freeDermatologist approvedSafe for sensitive eyes and contact lens wearerDirections: Apply eyeliner at the base of upper shade, layer shades for endless looks.Ingredients: Dimethicone, Calcium Aluminum Borosilicate, Polyethylene, Trimethylsiloxysilicate, Synthetic Wax, Squalane, Polybutene, Silica, Disteardimonium Hectorite, Propylene Carbonate, Tin Oxide, Lecithin, Tocopherol, Ascorbyl Palmitate, Citric Acid. May Contain/Peut Contenir: Bismuth Oxychloride, Black 2, Blue 1 Lake, Chromium Hydroxide Green, Chromium Oxide Greens, Carmine, Ferric Ammonium Ferrocyanide, Ferric Ferrocyanide, Iron Oxides, Manganese Violet, Mica, Titanium Dioxide, Ultramarines, Yellow 5 Lake.",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "Gluten Free"
+        ],
+        "created_at": "2016-10-01T18:29:40.955Z",
+        "updated_at": "2017-12-23T21:08:04.323Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/259.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/259/original/data?1514063284",
+        "product_colors": []
+    },
+    {
+        "id": 258,
+        "brand": "milani",
+        "name": "Milani Supreme Kohl Kajal Eyeliner",
+        "price": "8.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0e085149c3fbedd0aa6661c6b3d143cf_ra,w158,h184_pa,w158,h184.jpg",
+        "product_link": "https://well.ca/products/milani-supreme-kohl-kajal-eyeliner_108625.html",
+        "website_link": "https://well.ca",
+        "description": "Milani Supreme Kohl Kajal Eyeliner is perfect for tightlining, waterlining or adding definition to the upper lid - there’s nothing this one-stroke wonder can’t do.  With this sleek gold multi-tasker, you can achieve three distinct looks: 1.To keep it natural, line the upper lid and inner rim.  2. For added drama, thicken the line and extend the tip.  3. Feeling bold? Ring the entire eye. Available in a single stellar shade (Blackest Black), the waterproof formula is laced with hydrating, nourishing ingredients. Features:Smooth-glide application creates three looks from precise to boldSuper long-wear & smudge-proofRetractable tip, no sharpening requiredIdeal for use in waterlineWaterproofApplication: One Product Three Looks: Supremely Natural Supremely Dramatic Supremely Bold (will provide eye images for this section) Apply to upper lashline and inner rim for a natural, precise look. For added intensity, slightly thicken the line and extend the tip. For supreme drama, connect through the lower lashline.Ingredients: Cyclopentasiloxane, Hydrogenated Olive Oil Stearyl Esters, Polyethylene, Polybutene, Silica Silylate, Euphorbia Cerifera (Candelilla) Wax, Octyldodecanol, Cera Microcristallina (Microcrystalline Wax) , Theobroma Grandiflorum (Cocoa) Seed Butter, Sodium Ascorbyl Phosphate, Pentaerythrityl Tetra-di-t-Butyl Hydroxyhydrocinnamate, Tocopherol, Sodium Hyaluronate, Zinc Gluconate, Magnesium Aspartate, Water (Aqua), Copper Gluconate, Mica, Iron Oxide (CI 77499), Black 2 (CI 77266), Ferric Ferrocyanide (CI 77510). ",
+        "rating": 5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:39.644Z",
+        "updated_at": "2017-12-23T21:08:07.140Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/258.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/258/original/data?1514063287",
+        "product_colors": []
+    },
+    {
+        "id": 257,
+        "brand": "annabelle",
+        "name": "Annabelle Retractable Eyeliner",
+        "price": "9.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d579558b853bc13b92292106cfc2ed15_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/annabelle-retractable-eyeliner_97807.html",
+        "website_link": "https://well.ca",
+        "description": "This Annabelle Retractable Eyeliner with integrated sharpener comes in rich, intense colours and \na creamy texture that glides easily. Waterproof and long-lasting formula. \n                                                                        \n                                                               \nOphthalmologist Tested. Waterproof. 12h wear.                           \n                                                                      A \nmust have for a decadent dose of resistant colour!Shade Range: ",
+        "rating": 5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:37.128Z",
+        "updated_at": "2017-12-23T21:08:06.984Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/257.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/257/original/open-uri20171223-4-1i0r7ni?1514063286",
+        "product_colors": [
+            {
+                "hex_value": "#66603c",
+                "colour_name": "Peacock "
+            },
+            {
+                "hex_value": "#572e12",
+                "colour_name": "Bronze Age "
+            }
+        ]
+    },
+    {
+        "id": 255,
+        "brand": "cargo cosmetics",
+        "name": "Cargo Cosmetics Swimmables Eye Pencil",
+        "price": "19.0",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/edee76f18bae96a69164f4058e6b3c32_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/cargo-cosmetics-swimmables-eye_87606.html",
+        "website_link": "https://well.ca",
+        "description": "Stay in line!\nCargo Cosmetics Swimmables Eye Pencil is an ultra creamy, extreme wear, waterproof eyeliner with the feel of a \nliquid and versatility of a pencil. Locks comfortably into place for up \nto 14 hours. Creamy, transfer-resistant formula glides on effortlessly \nto create a variety of looks. Allows for ample blending time before \nsetting. Concentrated pigments provide rich color payoff. Stays put \nthrough sun, sweat, swim and tears.   \n\nFeatures:\n Moisturizing Waterproof PigmentsAvocado and sunflower oil provide a creamy, cushiony texture Durable, budge-proof waxes lock pigments into place for up to 14 hoursLiner tip offers versatile application—from delicate lines to thicker, fuller Ingredients: Isododecane, Synthetic Wax, Hydrogenated Polydicycolpentadiene, \nPEG/PPG-18/18 Dimethicone, Polybutene, Glyceryl \nTribehenate/Isostearate/Eicosandioate, Nylon-12, Polyethylene, \nPerfluorononyl Dimethicone, Polyglyceryl-4 \nDiisostearate/Polyhydroxystearate, Sebacate, Synthetic Beeswax, \nTocopherol, Pentaerythrityl Tetra-Di-T-Butyl, Hydroxyhydrocinnamate, \nPersea Gratissima (Avocado) Oil, Copernicia Cerifera (Carnauba) Wax, \nHelianthus Annuus (Sunflower) Seed Oil, Phytosterols, Olea Europaea \nFruit Oil, Sorbitan Oleat, Ascorbyl Palmitate, Tocopheryl Acetate. May Contain (+/-):\n  Iron Oxides (CI 77491, CI 77492, CI 77499), Mica (CI 77019), Titanium \nDioxide (CI 77891), Ferric Ferrocyanide (CI 77510), Carmine (CI 75470)",
+        "rating": 4.7,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:33.514Z",
+        "updated_at": "2017-12-23T21:08:06.614Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/255.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/255/original/data?1514063286",
+        "product_colors": [
+            {
+                "hex_value": "#4E5768",
+                "colour_name": "Loch Ness (Navy) "
+            },
+            {
+                "hex_value": "#312414",
+                "colour_name": "Pebble Beach (Brown) "
+            },
+            {
+                "hex_value": "#53484C",
+                "colour_name": "Pfeiffer Beach (Egg Plant) "
+            },
+            {
+                "hex_value": "#BEAC9E",
+                "colour_name": "Secret Beach (Nude) "
+            },
+            {
+                "hex_value": "#5B7E84",
+                "colour_name": "Lake Geneva "
+            },
+            {
+                "hex_value": "#3F4B97",
+                "colour_name": "Lake Como "
+            }
+        ]
+    },
+    {
+        "id": 253,
+        "brand": "annabelle",
+        "name": "Annabelle Smudgeliner ",
+        "price": "8.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/541b71a4d119bdae25eb1c3690bacf68_ra,w158,h184_pa,w158,h184.jpg",
+        "product_link": "https://well.ca/products/annabelle-smudgeliner_97765.html",
+        "website_link": "https://well.ca",
+        "description": "The new definition of smokey eye: edgy, soft, smudgeable! Annabelle Smudgeliners \nhave a superior long-lasting formula offering rich colour pay-off that \nglides on smoothly to create a defined line, or can be easily blended \nwith the built-in smudger tip to achieve a smokey, sultry look.\nIts excellent coverage means you can really get creative!\nContains natural oxidants and Vitamin E. Mineral-oil free. \nOphthalmologist tested.Shade Range: ",
+        "rating": 5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:31.183Z",
+        "updated_at": "2017-12-23T21:08:05.809Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/253.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/253/original/data?1514063285",
+        "product_colors": [
+            {
+                "hex_value": "#146849",
+                "colour_name": "Rich Chocolate "
+            }
+        ]
+    },
+    {
+        "id": 252,
+        "brand": "mineral fusion",
+        "name": "Mineral Fusion Eye Pencil",
+        "price": "19.0",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/3691e75a871b476e86f1e240ce784e70_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/mineral-fusion-eye-pencil_91719.html",
+        "website_link": "https://well.ca",
+        "description": "Exceptionally rich, the mineral color of Mineral Fusion Eye Pencils glide on smoothly to line, define and enhance eyes. Formulated with Chamomile, Meadowfoam and Vitamin E to soothe delicate skin around eyes. Free of Gluten, Parabens, Artificial Colors, Fragrances and Talc. Never-tested on animals. Hypo-allergenic.Ingredients: Simmondsia Chinensis (Jojoba) Butter, Caprylic/Capric Triglyceride, Limnanthes Alba (Meadowfoam) Seed Oil, Hydrogenated Cottonseed Oil, Mangifera Indica (Mango) Seed Oil, Euphorbia Cerifera (Candelilla) Wax, Glyceryl Caprylate, Copernicia Cerifera (Carnauba) Wax, Macadamia Ternifolia Seed Oil, Tocopherol (Vitamin E), Chamomilla Recutita (Matricaria) Flower Extract, Ascorbyl Palmitate (Vitamin C), Iron Oxides (77491, 77492, 77499), Titanium Dioxide (77891), Mica (77019). Free of Gluten, Parabens, Artificial Colors, Fragrances and Talc. Never-tested on animals. Hypo-allergenic.",
+        "rating": 4.5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "Gluten Free",
+            "Natural"
+        ],
+        "created_at": "2016-10-01T18:29:29.451Z",
+        "updated_at": "2017-12-23T21:08:05.636Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/252.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/252/original/data?1514063285",
+        "product_colors": [
+            {
+                "hex_value": "#48445C",
+                "colour_name": "Azure - Navy Blue "
+            }
+        ]
+    },
+    {
+        "id": 251,
+        "brand": "wet n wild",
+        "name": "Wet n Wild Sharpen Up! Dual Pencil Sharpener",
+        "price": "1.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/52cb90513c65303b9ac96b0bb8f5e74c_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/wet-n-wild-sharpen-up-dual-pencil_114005.html",
+        "website_link": "https://well.ca",
+        "description": "Specially-designed dual pencil sharpener includes razor-sharp blades to keep pencils of all sizes perfectly-shaped.Features:Dual-purpose sharpener for pencils of all sizesRazor-sharp bladesCompact for easy traveling Directions: Insert pencil into appropriate hole depending on size of pencil and twist.",
+        "rating": 5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:28.262Z",
+        "updated_at": "2017-12-23T21:08:05.457Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/251.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/251/original/open-uri20171223-4-1ky7y5m?1514063285",
+        "product_colors": []
+    },
+    {
+        "id": 250,
+        "brand": "covergirl",
+        "name": "CoverGirl Ink it! By Perfect Point Plus Eyeliner ",
+        "price": "6.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/db7299d1c75f3e217b911e9a7be8783c_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/covergirl-ink-it-by-perfect-point_78616.html",
+        "website_link": "https://well.ca",
+        "description": "Get inked — without the commitment! Ink It! colors glide on smoothly and\n easily without skipping, dragging, or pulling. The bright, bold shades \nlast all day long.Features: Bright, bold colors for new looks Lasts all day long ­­— no smudging or creasingExpert precision applicationTwist up design",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:27.595Z",
+        "updated_at": "2017-12-23T21:08:05.330Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/250.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/250/original/data?1514063285",
+        "product_colors": []
+    },
+    {
+        "id": 249,
+        "brand": "annabelle",
+        "name": "Annabelle Stay Sharp Waterproof Kohl Eyeliner",
+        "price": "9.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/e1b909a32d2c8a8075ac11972511e936_ra,w158,h184_pa,w158,h184.jpg",
+        "product_link": "https://well.ca/products/annabelle-stay-sharp-waterproof-kohl_97762.html",
+        "website_link": "https://well.ca",
+        "description": "Stop looking, you have just found the sharpest tool in the shed!Annabelle introduces the very first to mass market \nself-sharpening eyeliners with the Stay Sharp Waterproof Eyeliner. \nAnnabelle’s truly innovative concept will keep beautistas on point and \nsharpeners away.The Stay Sharp secret is in the cap! The Annabelle Stay Sharp twist-on \ncap includes a sharpener. Every time the cap is twisted back on the \npencil, the blades sharpen the tip to perfection and neatly keep the \nshavings. No fuss, no mess!Shade Range: Features:Shelf-sharpening pencilNo mess: lead shavings are kept inside the capFine tip for extra-precise applicationExtremely soft lead for a smooth, gliding applicationWaterproof formulaIntense pigmentation for best colour pay off and coverage",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:26.775Z",
+        "updated_at": "2017-12-23T21:08:05.016Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/249.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/249/original/data?1514063284",
+        "product_colors": [
+            {
+                "hex_value": "#151219",
+                "colour_name": "Go Black "
+            },
+            {
+                "hex_value": "#563734",
+                "colour_name": "Cappuccino "
+            },
+            {
+                "hex_value": "#54473f",
+                "colour_name": "Graphite "
+            },
+            {
+                "hex_value": "#001d63",
+                "colour_name": "Midnight "
+            },
+            {
+                "hex_value": "#352a6e",
+                "colour_name": "Ultraviolet "
+            },
+            {
+                "hex_value": "#2c4236",
+                "colour_name": "Forest "
+            }
+        ]
+    },
+    {
+        "id": 248,
+        "brand": "pacifica",
+        "name": "Pacifica Natural Eye Pencil",
+        "price": "16.0",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/b2c0bdd88398baadd69b710d27893ca2_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/pacifica-natural-eye-pencil_94342.html",
+        "website_link": "https://well.ca",
+        "description": "Pacifica Natural Eye Pencil is a waterproof, buttery smooth eye pencil that glides on easily to avoid pulling on the delicate eye area. Color glides on and stays put for those perfectly defined eyes. Whether it be a very fine line or the ever glamorous cat-eye, these pencils provide the right amount of saturated color to make your eyes pop.Formulated without: Animal ingredients (including carmine, beeswax and \nlanolin), animal testing, FD&C colors, mineral oil, parabens, \nphthalates, petroleum, propylene glycol, SLS, gluten, peanut oil and \nother ingredients you don’t want on your skin.Ingredients: Gun Metal (pewter) - hydrogenated simmondsia chinensis seed oil, mica, caprylic / capric triglycerides, hydrogenated vegetable oil, simmondsia chinensis seed oil, butyrospermum parkii butter, titanium dioxide CI 77891, canola oil, sclerocarya birrea seed oil, iron oxide CI 77499, euphorbia cerifera cera, glyceryl caprylate, copernicia cerifera cera, tocopherol, helianthus annuus seed oil, ascorbyl palmitateBare (Nude) - titanium dioxide CI 77891, hydrogenated simmondsia chinensis seed oil, simmondsia chinensis seed oil, caprylic / capric triglycerides, hydrogenated vegetable oil, mica, butyrospermum parkii butter, canola oil, sclerocarya birrea seed oil, iron oxide CI 77492, euphorbia cerifera cera, glyceryl caprylate, copernicia cerifera cera, iron oxide CI 77491, iron oxide CI 77499, tocopherol, ascorbyl palmitate.Fringe (brown) - hydrogenated simmondsia chinensis seed oil, iron oxide CI 77499, mica, iron oxide CI 77491, iron oxide CI 77492, hydrogenated vegetable oil, caprylic / capric triglyceride, simmondsia chinensis seed oil, butyrospermum parkii butter, canola oil, sclerocarya birrea seed oil, candelilla cerifera cera, glyceryl caprylate, copernicia cerifera cera, tocopherol, helianthus annuus seed oil, ascorbyl palmitate.Jet (black) - iron oxide CI 77499, hydrogenated simmondsia chinenesis seed oil, caprylic / capric triglyceride, simmondsia chinenesis seed oil, hydrogenated vegetable oil, butyrospermum parkii butter, sclerocarya birrea seed oil, mica, candelilla cerifera cera, glyceryl caprylate, copernicia cerifera cera, tocopherol, helianthus annuus seed oil, ascorbyl palmitate",
+        "rating": 5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "Natural",
+            "Vegan",
+            "Gluten Free"
+        ],
+        "created_at": "2016-10-01T18:29:24.754Z",
+        "updated_at": "2017-12-23T21:08:04.906Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/248.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/248/original/data?1514063284",
+        "product_colors": []
+    },
+    {
+        "id": 247,
+        "brand": "covergirl",
+        "name": "CoverGirl Liquiline Blast Eyeliner ",
+        "price": "9.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0e4882c00b6639844d9168d71f43c3ed_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/covergirl-liquiline-blast-eyeliner_74467.html",
+        "website_link": "https://well.ca",
+        "description": "With liquiline blast, you'll get all the intensity and staying power of a\n liquid with ease and blendability of a pencil. Use the \nliner as-is for intense definition or smoke-it-out with the built-in \nsmudger end for a subtle, smoky look.Features: Liquid-like formula + the ease of a pencil applicatorSmudger tip lets you customize your intensity",
+        "rating": 4.5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:22.771Z",
+        "updated_at": "2017-12-23T21:08:04.067Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/247.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/247/original/data?1514063284",
+        "product_colors": []
+    },
+    {
+        "id": 246,
+        "brand": "annabelle",
+        "name": "Annabelle Smoothliner ",
+        "price": "6.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/25372c697046520c10607be4c235d3ba_ra,w158,h184_pa,w158,h184.jpg",
+        "product_link": "https://well.ca/products/annabelle-smoothliner_97768.html",
+        "website_link": "https://well.ca",
+        "description": "So creamy and smooth it feels like silk on your skin!Annabelle  Smoothliners are \navailable in a matte or metallic finish and allow for a clean line, \nadding depth and elegance to your eyes. Lovely and alluring eyes, all \nday long! Waterproof. Long-lasting. Hypo-Allergenic.Shade Range:",
+        "rating": 4.8,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:20.194Z",
+        "updated_at": "2017-12-23T21:08:03.267Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/246.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/246/original/data?1514063283",
+        "product_colors": [
+            {
+                "hex_value": "#807e7f",
+                "colour_name": "Metal Daze "
+            }
+        ]
+    },
+    {
+        "id": 244,
+        "brand": "marcelle",
+        "name": "Marcelle Waterproof Eyeliner",
+        "price": "10.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/268575c4edd3108568af16e39ad69517_ra,w158,h184_pa,w158,h184.jpg",
+        "product_link": "https://well.ca/products/marcelle-waterproof-eyeliner_100319.html",
+        "website_link": "https://well.ca",
+        "description": "\n        Use Marcelle Waterproof Eyeliner for impeccably lined eyes anywhere, anytime!\nPerfectly blendable, its creamy formula allows for a precise and \nintensely coloured line. The smooth texture of this waterproof eyeliner \nvirtually glides on the skin and stays put all day long, resisting to \nwater, humidity and heat. Long-lasting, it is nonetheless easily removed\n with any Marcelle eye make-up remover. Available in a matte or \npearlized finish.\n\nHypo-allergenic and perfume free.Shade Range:     ",
+        "rating": 3,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "Canadian"
+        ],
+        "created_at": "2016-10-01T18:29:17.331Z",
+        "updated_at": "2017-12-23T20:51:33.920Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/244.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/244/original/open-uri20171223-4-149bhb5?1514062293",
+        "product_colors": [
+            {
+                "hex_value": "#0e0e0e",
+                "colour_name": "Midnight Black "
+            },
+            {
+                "hex_value": "#2d2824",
+                "colour_name": "Taupe "
+            },
+            {
+                "hex_value": "#37302a",
+                "colour_name": "Expresso "
+            },
+            {
+                "hex_value": "#3f4752",
+                "colour_name": "Indigo "
+            },
+            {
+                "hex_value": "#363636",
+                "colour_name": "Deep Charcoal "
+            },
+            {
+                "hex_value": "#23132d",
+                "colour_name": "Mulberry "
+            },
+            {
+                "hex_value": "#8653dc",
+                "colour_name": "Purple Rain "
+            },
+            {
+                "hex_value": "#6a73c2",
+                "colour_name": "Electric Blue "
+            },
+            {
+                "hex_value": "#719442",
+                "colour_name": "Effervescent "
+            },
+            {
+                "hex_value": "#43b1a6",
+                "colour_name": "Caribbean "
+            },
+            {
+                "hex_value": "#34815d",
+                "colour_name": "Emerald "
+            },
+            {
+                "hex_value": "#64b3eb",
+                "colour_name": "Blue Lagoon "
+            },
+            {
+                "hex_value": "#163516",
+                "colour_name": "Metal Green "
+            },
+            {
+                "hex_value": "#3e3731",
+                "colour_name": "Bronze "
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "brand": "physicians formula",
+        "name": "Physicians Formula Shimmer Strips Eye Enhancing Eyeliner Trio ",
+        "price": "14.79",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/b5c7acadc4e472a567e428979d68357c_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/physicians-formula-shimmer-strips_70958.html",
+        "website_link": "https://well.ca",
+        "description": "Warm Nude Eyeliner Trio!  The perfect set of earth tone eyeliners to create a Warm Nude look for ANY eye color! Long-wearing, water-resistant and smudge-resistant formula for 24-Hour wear.Tips and Tricks for a Smoky Eye: Apply Eyeliner at the base of upper and lower lash line. Layer shades together for endless looks!Ingredients: Cyclopentasiloxane. Trimethylsiloxysilicate. Polyethylene. Ozokerite. \nLauroyl Lysine. Synthetic Beeswax. Octyldodecanol. Disteardimonium \nHectorite. Propylene Carbonate.  Lecithin. Ascorbyl Palmitate. Citric \nAcid. Tocopherol.  May Contain: Iron Oxides. Titanium Dioxide. Mica. \nAluminum Powder. Bismuth Oxychloride. Black 2. Blue 1 Lake. Carmine. \nChromium Hydroxide Green. Chromium Oxide Greens. Ferric Ammonium \nFerrocyanide. Ferric Ferrocyanide. Manganese Violet. Silica. Tin Oxide. \nUltramarines. Yellow 5 Lake.Hypoallergenic. Fragrance-free. Paraben-Free. Gluten Free.  \nDermatologist approved. Safe for sensitive eyes and contact lens \nwearers.",
+        "rating": 5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "Gluten Free"
+        ],
+        "created_at": "2016-10-01T18:29:14.986Z",
+        "updated_at": "2017-12-23T20:51:33.744Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/243.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/243/original/data?1514062293",
+        "product_colors": []
+    },
+    {
+        "id": 242,
+        "brand": "l'oreal",
+        "name": "L'Oreal Paris Infallible Silkissime Eyeliner",
+        "price": "11.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a132f78e0b9e4aa4cca37c9f05267897_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/loreal-paris-infallible-silkissime_96632.html",
+        "website_link": "https://well.ca",
+        "description": "\n                    L'Oréal Paris introduces Silkissime™ by \nInfallible® Eyeliner. The formula glides on like silk for a soft and \nluxurious line with up to 16H of intensity.Features:\n\nRich, silky formulaSmudge-resistant, up to 16H wearOphthalmologist testedSuitable for sensitive eyes and contact lens wearers\n                ",
+        "rating": 5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:13.117Z",
+        "updated_at": "2017-12-23T20:51:33.338Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/242.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/242/original/data?1514062293",
+        "product_colors": [
+            {
+                "hex_value": "#000000",
+                "colour_name": "Black "
+            },
+            {
+                "hex_value": "#3C393A",
+                "colour_name": "Charcoal "
+            },
+            {
+                "hex_value": "#2A61AC",
+                "colour_name": "Cobalt Blue "
+            },
+            {
+                "hex_value": "#D99A85",
+                "colour_name": "Highlighter "
+            },
+            {
+                "hex_value": "#242A5F",
+                "colour_name": "Plum "
+            },
+            {
+                "hex_value": "#7F4195",
+                "colour_name": "Pure Purple "
+            },
+            {
+                "hex_value": "#2F939E",
+                "colour_name": "True Teal "
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "brand": "l'oreal",
+        "name": "L'Oreal Paris Extra-Intense Liquid Pencil Eyeliner",
+        "price": "10.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/cf225e409760daf4dea62290990008a6_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/loreal-paris-extra-intense-liquid_29589.html",
+        "website_link": "https://well.ca",
+        "description": "Now get the intense look and luxurious feel of a liquid liner with the easy application and precision of a pencil.  Extra-Intense Liquid Pencil Eyeliner glides on smoothly and evenly for beautiful definition in a single stroke.  The smudge-resistant formula provides 16 hours of non-stop wear. ",
+        "rating": 4.3,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:09.067Z",
+        "updated_at": "2017-12-23T20:51:32.749Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/240.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/240/original/data?1514062292",
+        "product_colors": [
+            {
+                "hex_value": "#000009",
+                "colour_name": "Carbon Black "
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "brand": "covergirl",
+        "name": "CoverGirl Ink it! By Perfect Point Plus Eyeliner",
+        "price": "6.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/e4763257a2290da070bd300212d16db8_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/covergirl-ink-it-by-perfect-point_78614.html",
+        "website_link": "https://well.ca",
+        "description": "Get inked — without the commitment! Ink It! colors glide on smoothly and\n easily without skipping, dragging, or pulling. The bright, bold shades \nlast all day long.Features: Bright, bold colors for new looks Lasts all day long ­­— no smudging or creasingExpert precision applicationTwist up design",
+        "rating": 2.5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:08.005Z",
+        "updated_at": "2017-12-23T20:51:32.964Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/239.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/239/original/data?1514062292",
+        "product_colors": []
+    },
+    {
+        "id": 238,
+        "brand": "physicians formula",
+        "name": "Physicians Formula Shimmer Strips Eye Enhancing Eyeliner Trio",
+        "price": "14.79",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4ce7e1ce460841dfc5f42c29221cf5c1_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/physicians-formula-shimmer-strips_61188.html",
+        "website_link": "https://well.ca",
+        "description": "Shimmer Strips Custom Eye Enhancing Eyeliner Trio is the perfect set of three eyeliners to enhance your eye colour and provide glamorous definition! Long-wearing, water-resistant and smudge-resistant formula for 24-Hour wear.Directions for Use: Apply eyeliner at the base of upper lashes. Layer shades together for endless looks. For more defined eyes, apply along lower lash line as well.Ingredients: Cyclopentasiloxane. Trimethylsiloxysilicate. Polyethylene. Ozokerite. Lauroyl Lysine. Synthetic Beeswax. Octyldodecanol. Disteardimonium Hectorite. Propylene Carbonate. Lecithin. Ascorbyl Palmitate. Citric Acid. Tocopherol. May Contain: Iron Oxides. Titanium Dioxide. Mica. Aluminum Powder. Bismuth Oxychloride. Black 2. Blue 1 Lake. Carmine. Chromium Hydroxide Green. Chromium Oxide Greens. Ferric Ammonium Ferrocyanide. Ferric Ferrocyanide. Manganese Violet. Silica. Tin Oxide. Ultramarines. Yellow 5 Lake.Hypoallergenic. Fragrance free. Paraben free. Dermatologist approved. Safe for sensitive eyes and contact lens wearers.",
+        "rating": 5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "Gluten Free"
+        ],
+        "created_at": "2016-10-01T18:29:05.433Z",
+        "updated_at": "2017-12-23T21:08:04.790Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/238.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/238/original/data?1514063284",
+        "product_colors": []
+    },
+    {
+        "id": 237,
+        "brand": "covergirl",
+        "name": "CoverGirl Perfect Point Plus Eyeliner Pencil ",
+        "price": "7.49",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/74749bda64dcfe89dfdbf3f2f248cd3a_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/covergirl-perfect-point-plus_74584.html",
+        "website_link": "https://well.ca",
+        "description": "The pencil gives you control and versatility. Want a precise line? It \nglides on easily. Want to soften a bit? There's a soft smudger tip. Best\n of all? No sharpening necessary, it's got a specially designed \nself-sharpener inside. So you always get the point—perfectly.Features: Specially-designed self-sharpenerSoft smudger tip for great blendingGlides on easilyOphthalmologically-tested",
+        "rating": 4,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:04.719Z",
+        "updated_at": "2017-12-23T20:51:32.842Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/237.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/237/original/data?1514062292",
+        "product_colors": []
+    },
+    {
+        "id": 236,
+        "brand": "milani",
+        "name": "Milani Brow & Eye Highlighter Duo Pencil",
+        "price": "6.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4c7b17775d8a73cf4585e20761098b79_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/milani-brow-eye-highlighter-duo_89096.html?cat=324",
+        "website_link": "https://well.ca",
+        "description": "A versatile two-in-one, this double-ended pencil performs an almost endless array of tasks. Depending on which of our three shade duos you pick, the matte side can be used as an eye shadow base (or shadow itself) and brow highlighter, while the pearl side can brighten up the inner corners of the eyes, and lift and define the brows. Vanilla/Natural Taupe brightens, shapes, and fills in brows. So much brow bang for your buck.Features:Matte side can be used as an eye shadow base and brow highlighterPearl side can brighten up the inner corners of the eyes, and lift and define the browsVanilla/Natural Taupe brightens, shapes and fills browsEasy to useApplication: Use the matte side to enhance and shape the brows, use the pearl side as an instant brow lift and eye brightener. 01 Matte Beige/High Glow:  Both sides can be used underneath the brow bone as a highlighter. Matte Beige can be used as an eyeshadow or eyeshadow base. High Glow can be used in the inner corners of the eyes to brighten. 02 Matte Cream/Luminous Lift:  Both sides can be used underneath the brow bone as a highlighter. Matte Beige can be used as an eyeshadow or eyeshadow base. High Glow can be used in the inner corners of the eyes to brighten. 03 Vanilla/Natural Taupe:  Both sides are matte. Vanilla can be used underneath the brow bone as a highlighter. It can also be used as an eyeshadow or eyeshadow base. Natural Taupe can be used to define and fill-in brows and as an eyeshadow. Ingredients: Isodecyl Isononanoate, Hydrogenated Coco-Glycerides, Euphorbia Cerifera Cera (Candelilla Wax), Cera Microcristallina (Microcrystalline Wax), Polymethyl Methacrylate, Silica, Copernicia Cerifera Cera (Carnauba Wax), Disteardimonium Hectorite, Tocopherol, Propylene Carbonate, Ascorbyl Palmitate, Mica, Titanium Dioxide (CI 77891), Iron Oxide (CI 77491). +/- May Contain: Iron Oxides (CI 77492, CI 77499). ",
+        "rating": 3.3,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:04.105Z",
+        "updated_at": "2017-12-23T20:51:32.146Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/236.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/236/original/open-uri20171223-4-inzckb?1514062292",
+        "product_colors": [
+            {
+                "hex_value": "#F1D5A6",
+                "colour_name": "01 Matte Beige & HighGlow "
+            },
+            {
+                "hex_value": "#ECBE9C",
+                "colour_name": "03 Vanilla & Natural Taupe "
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "brand": "l'oreal",
+        "name": "L'Oreal Paris Infallible Never Fail Eye Liner",
+        "price": "12.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/2f7610f4a82cc1c7abb8ddc33ab236f0_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/loreal-paris-infallible-never-fail_10010.html",
+        "website_link": "https://well.ca",
+        "description": "Enjoy beautifully defined eyes for up to 16 hours! New Infallible Never Fail Eyeliner is L'Oreal's most advanced mechanical liner with superior long-wearing technology. The rich and creamy formula glides on easily and evenly and sets quickly for fade-proof colour. Use the bulit-in smudger and sharper to create versatile eyeliner looks for any occasion.",
+        "rating": 3.5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:03.449Z",
+        "updated_at": "2017-12-23T20:51:15.534Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/235.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/235/original/data?1514062275",
+        "product_colors": [
+            {
+                "hex_value": "#000009",
+                "colour_name": "Black "
+            },
+            {
+                "hex_value": "#4E3801",
+                "colour_name": "Black Brown "
+            },
+            {
+                "hex_value": "#474747",
+                "colour_name": "Carbon Black "
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "brand": "sante",
+        "name": "Sante Kajal Eyeliner Pencil",
+        "price": "17.29",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/9006e43a8083b3dff963ecbfa02c3707_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/sante-kajal-eyeliner-pencil_51514.html",
+        "website_link": "https://well.ca",
+        "description": "Sante gentle eyeliner pencils have a wonderful texture. They are perfectly suitable\n for use on the inner eyelid. Or can be used blended with a sponge to create a \nsophisticated effect and make the color last longer.  Vegan and \ngluten-free. Not tested on animals.Ingredients: Caprylic/Capric Triglyceride, Ricinus Communis \n(Castor) Seed Oil*, Hydrogenated Palm Kernel Glycerides, Copernica \nCerifera (Carnauba) Wax, Hydrogenated Castor O il, Euphorbia Cerifera \n(Candelilla) Wax, Cera Alba (Beeswax), Hydrogenated Palm Glycerides, \nAscorbyl Palmitate, Tocopherol, Mica, [+/-CI 77007, CI 77288, CI 77491, \nCI 77492, CI 77499, CI 77510, CI 77742, CI 77891]",
+        "rating": 3.9,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "Natural",
+            "Vegan",
+            "Gluten Free"
+        ],
+        "created_at": "2016-10-01T18:29:01.951Z",
+        "updated_at": "2017-12-23T20:51:26.864Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/234.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/234/original/open-uri20171223-4-1tzjkro?1514062286",
+        "product_colors": [
+            {
+                "hex_value": "#386e6e",
+                "colour_name": "No. 10 Petrol "
+            },
+            {
+                "hex_value": "#5f769c",
+                "colour_name": "No.4 Night Blue "
+            },
+            {
+                "hex_value": "#5a5b60",
+                "colour_name": "No.7 Anthracite "
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "brand": "dr. hauschka",
+        "name": "Dr. Hauschka Kajal Eyeliner",
+        "price": "24.0",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/62462de8cb4b6d0759b9e4b13bc602ed_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/dr-hauschka-kajal-eyeliner_34277.html",
+        "website_link": "https://well.ca",
+        "description": "Kajal Eyeliner pencils, highlight and define the beauty of your eyes. Mineral pigments are fused with quince and Japan waxes for smooth, effortless application. Extracts of anthyllis, witch hazel and black tea have a soothing effect on the delicate skin around the eyes.\nFeatures:Truly natural and organic cosmetics, certified to NATRUE and/or BDIH standardsFree from chemical/synthetic fragrances and preservativesFree from mineral oils, parabens, silicone and PEGVegan (Kajal Eyeliner 02-05)Dermatologically tested for sensitive skinWherever possible, all raw materials come from controlled organic or Demeter cultivation and are recovered under fair conditions\n\n ",
+        "rating": 4.4,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:29:00.524Z",
+        "updated_at": "2017-12-23T20:51:31.701Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/233.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/233/original/data?1514062291",
+        "product_colors": [
+            {
+                "hex_value": "#252A30",
+                "colour_name": "Black (05) "
+            },
+            {
+                "hex_value": "#072A4A",
+                "colour_name": "Dark Blue (01) "
+            },
+            {
+                "hex_value": "#34383B",
+                "colour_name": "Soft Brown (04) "
+            },
+            {
+                "hex_value": "#5F6A6E",
+                "colour_name": "Soft Grey (02) "
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "brand": "maybelline",
+        "name": "Maybelline Line Express Eyeliner",
+        "price": "7.29",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4e88f928ad91c88e2ecb8596431ce799_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/maybelline-line-express-eyeliner_9738.html",
+        "website_link": "https://well.ca",
+        "description": "Maybelline Line Express Eyeliner's intense color formula + smart tip smudger makes this liner glide on smoothly and is easy to apply with just one stroke.Features: Creamy formula delivers intense colorContour smudger makes blending easyAll-day wearSafe for sensitive eyes and ophthalmologist-testedContact lens safe",
+        "rating": 4.5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:28:59.422Z",
+        "updated_at": "2017-12-23T20:51:31.255Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/232.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/232/original/open-uri20171223-4-1gco531?1514062291",
+        "product_colors": []
+    },
+    {
+        "id": 231,
+        "brand": "almay",
+        "name": "Almay Intense i-Colour Bring Out Eyeliner",
+        "price": "10.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/384c7e6d20cf4ad138b7120b43a8a310_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/almay-intense-i-colour-bring-out_4442.html",
+        "website_link": "https://well.ca",
+        "description": "\n\nBring out your eye color with rich contrasting color! This eyeliner softly defines your eyes with a pearlescent color that will make your eye color pop. Comes with a convenient built in sharpener that ensures precise application— and resists smudging and fading throughout the day. Features: \n\nHypoallergenic\nNon-irritating\nOphthalmologist, Clinically and allergy tested\nSuitable for contact lens wearers\n\n\n",
+        "rating": 4.3,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:28:58.264Z",
+        "updated_at": "2017-12-23T20:51:31.030Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/231.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/231/original/data?1514062290",
+        "product_colors": [
+            {
+                "hex_value": "#79361d",
+                "colour_name": "Brown Topaz for Blue Eyes "
+            },
+            {
+                "hex_value": "#403D69",
+                "colour_name": "Purple Amethyst Brown Eyes "
+            },
+            {
+                "hex_value": "#5E4643",
+                "colour_name": "Raisin Quartz for Green Eyes "
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "brand": "maybelline",
+        "name": "Maybelline Unstoppable Eyeliner",
+        "price": "8.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/bab89a9fe13b34235e0dd1f4f44c05cf_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/maybelline-unstoppable-eyeliner_3737.html",
+        "website_link": "https://well.ca",
+        "description": "Unstoppable Eyeliner allows ultra-smooth application for defined lines and eyes.\nIt is a self-sharpening mechanical pencil, and will hold your look in place all day long.\nWaterproof.\nOphthalmologist tested, contact lens safe for sensitive eyes.\n",
+        "rating": 4.3,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:28:57.194Z",
+        "updated_at": "2017-12-23T20:51:30.858Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/230.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/230/original/open-uri20171223-4-1noqhmg?1514062290",
+        "product_colors": [
+            {
+                "hex_value": "#736364",
+                "colour_name": "Onyx "
+            },
+            {
+                "hex_value": "#797B7D",
+                "colour_name": "Pewter "
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "brand": "pure anada",
+        "name": "Pure Anada Pureline Pencil Eye Liner",
+        "price": "14.0",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4b8ab1da556c57a01854b5bf23016f48_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/pure-anada-pureline-pencil-eye-liner_83251.html",
+        "website_link": "https://well.ca",
+        "description": "These natural pencils are made with plant oils and mineral pigments.  If\n you prefer a traditional pencil to line your eyes, and want to use a \nproduct with natural ingredients,  try Pure Anada \nPureline eye pencils.Ingredients: Octyldodlecyl Stearoyl Stearate (plant origin), Triglycerides, Hydrogenated Vegetable Oil, Prunus Amygdalus Dulcis (Organic Sweet Almond) Oil, Copernicia Cerifera (Carnauba) Wax, Olus Oil, Candelilla Cera, Mica, Sesamum Indicum (Sesame) Oil, Polyglyceryl-3 Diisostearate, Glyceryl Caprylate, Tocopheryl Acetate, Sorbic Acid, Titanium Dioxide (C.I. 77499), Iron Oxide (C.I. 77891 or 77491) Note:  The ingredients in Pure Anada Pureline Pencils are approved by Eco-cert and/or certified organic.",
+        "rating": 4,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "Canadian",
+            "Natural"
+        ],
+        "created_at": "2016-10-01T18:28:55.009Z",
+        "updated_at": "2017-12-23T20:51:30.551Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/229.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/229/original/data?1514062290",
+        "product_colors": [
+            {
+                "hex_value": "#221E1F",
+                "colour_name": "Black  "
+            },
+            {
+                "hex_value": "#412828",
+                "colour_name": "Brown "
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "brand": "l'oreal",
+        "name": "L'Oreal Paris Colour Riche Le Khol Eyeliner",
+        "price": "9.29",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/94a08dc5666ab926584801c34140b29e_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/loreal-paris-colour-riche-le-khol_85924.html",
+        "website_link": "https://well.ca",
+        "description": "L'Oreal Paris Colour Riche Le Khôl Eyeliner comes in a range of beautiful, wearable shades with a luxurious, intense formula\n combining oil and wax. This eyeliner softly glides over the \neyelid allowing you to achieve a long-lasting and intense colour result.",
+        "rating": 4.5,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:28:53.842Z",
+        "updated_at": "2017-12-23T20:51:30.430Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/228.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/228/original/data?1514062290",
+        "product_colors": [
+            {
+                "hex_value": "#FFFFFF",
+                "colour_name": "Immaculate Snow "
+            },
+            {
+                "hex_value": "#1B1B1B",
+                "colour_name": "Midnight Black "
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "brand": null,
+        "name": "Earth Lab Vegan Mineral Eye Pencil",
+        "price": "18.0",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/e43ef102523ce5c38bd92ce1cb562395_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/earth-lab-vegan-mineral-eye-pencil_78793.html",
+        "website_link": "https://well.ca",
+        "description": "These natural minerals eye pencils are made fresh to order. They\n are super soft, and once they're on they do not run or smudge easily. \nThat said - they do wash off easily as well!Ingredients: Jojoba Oil, Castor Oil, Carnauba Wax, \nCandelillia Wax, Ozokerite Wax, Vitamin E, Mica, and Iron Oxides\nMineral pencils expire within 6 months of purchase.",
+        "rating": 3.4,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [
+            "Natural",
+            "Vegan",
+            "Canadian"
+        ],
+        "created_at": "2016-10-01T18:28:52.926Z",
+        "updated_at": "2017-12-23T20:51:30.288Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/227.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/227/original/data?1514062290",
+        "product_colors": [
+            {
+                "hex_value": "#322423",
+                "colour_name": "Espresso "
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "brand": "revlon",
+        "name": "Revlon ColorStay Eye Liner",
+        "price": "11.49",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/f8d347e5c094ab100de0f04bc163eb79_ra,w158,h184_pa,w158,h184.jpeg",
+        "product_link": "https://well.ca/products/revlon-colorstay-eye-liner_3845.html",
+        "website_link": "https://well.ca",
+        "description": "ColorStay Eyeliner glides on easily adding drama and definition to your eyes for up to 16 hours. Waterproof formula won't smear, smudge or fade",
+        "rating": 4.7,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:28:52.236Z",
+        "updated_at": "2017-12-23T20:51:29.908Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/226.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/226/original/data?1514062289",
+        "product_colors": []
+    },
+    {
+        "id": 225,
+        "brand": "maybelline",
+        "name": "Maybelline Color Show Kohl Liner",
+        "price": "5.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c2fcd605bbf3941b521fb74bfa942ac6_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/maybelline-color-show-kohl-liner_101020.html",
+        "website_link": "https://well.ca",
+        "description": "Maybelline Color Show Kohl Liner is the hottest new way to create statement eyes!The brightest colors. The easiest glide. Creamy, rich color has never \nbeen this precise!",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:28:51.002Z",
+        "updated_at": "2017-12-23T20:51:29.742Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/225.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/225/original/open-uri20171223-4-77bvjo?1514062289",
+        "product_colors": [
+            {
+                "hex_value": "#2e4064",
+                "colour_name": "Beauty Blue "
+            },
+            {
+                "hex_value": "#56403a",
+                "colour_name": "Chocolate Chip "
+            },
+            {
+                "hex_value": "#008687",
+                "colour_name": "Edgy Emerald "
+            },
+            {
+                "hex_value": "#854f58",
+                "colour_name": "Marvelous Maroon "
+            },
+            {
+                "hex_value": "#837163",
+                "colour_name": "Sparkle Grey "
+            },
+            {
+                "hex_value": "#00849d",
+                "colour_name": "Turquoise Flash "
+            },
+            {
+                "hex_value": "#000000",
+                "colour_name": "Ultra Black "
+            },
+            {
+                "hex_value": "#574c7c",
+                "colour_name": "Vibrant Violet "
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "brand": "covergirl",
+        "name": "CoverGirl Bombshell Powder Brow & Liner in Blonde",
+        "price": "9.49",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/49400a1459a15523535e61d0db29e57d_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/covergirl-bombshell-powder-brow_113684.html",
+        "website_link": "https://well.ca",
+        "description": "Bring sexy smolder to eyes & brows.  Soft powder adheres to brows and defines eyes.Features:2-in-1 brow & liner powderVelvety powder fills in browsUse also to softly line & define eyesDirections: Twist open and pull applicator up and tap lightly on tube side to remove excess powder. Lightly brush over eyebrows until desired effect is reached. Also use to softly line & define eyesIngredients: Boron Nitride, Dimethicone, Silica, Polyethylene, Pentylene Glycol, Pumice, Kaolin, Dimethiconol, Phenoxyethanol, Ethylhexylglycerin, Dehydroacetic Acid, Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, May Contain/Peut Contenir: Titanium Dioxide, Iron Oxides, Mica",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:28:45.555Z",
+        "updated_at": "2017-12-23T21:08:11.210Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/222.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/222/original/open-uri20171223-4-6x2r8c?1514063291",
+        "product_colors": []
+    },
+    {
+        "id": 211,
+        "brand": "wet n wild",
+        "name": "Wet n Wild ProLine Graphic Marker Eyeliner",
+        "price": "6.99",
+        "price_sign": null,
+        "currency": null,
+        "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/917bddd5782d5f05820f61f0bef8f23e_ra,w158,h184_pa,w158,h184.png",
+        "product_link": "https://well.ca/products/wet-n-wild-proline-graphic-marker_113994.html?cat=324",
+        "website_link": "https://well.ca",
+        "description": "Get graphic with Wet n Wild ProLine Graphic Marker Eyeliner! Draw bold lines with this soft, angled marker tip. This marker liner gives you full control for the quickest, easiest graphic application ever! Features:Create bold graphic looks or thin subtle lines with the angled markerDark, opaque color for bold resultsQuick drying and smudge-freeDirections: Create a variety of lines by adjusting angle of the unique angled marker tip.Ingredients: Water/Eau, Acrylates Copolymer, Laureth-21, Butylene Glycol, PEG-40 Hydrogenated Castor Oil, Glycerin, Propanediol, Propylene Glycol, Chlorphenesin, Dipotassium Glycyrrhizate, Caprylhydroxamic Acid, Trisodium EDTA, Black 2/CI 77266. ",
+        "rating": null,
+        "category": "pencil",
+        "product_type": "eyeliner",
+        "tag_list": [],
+        "created_at": "2016-10-01T18:28:32.635Z",
+        "updated_at": "2017-12-23T21:08:09.236Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/211.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/211/original/open-uri20171223-4-h1k0kt?1514063289",
+        "product_colors": [
+            {
+                "hex_value": "#202446",
+                "colour_name": "Airliner Blue "
+            },
+            {
+                "hex_value": "#272830",
+                "colour_name": "Jetliner Black "
+            }
+        ]
+    }
+]
